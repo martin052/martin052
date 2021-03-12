@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martin052
 - 👀 I’m interested in calisthenic,GoPro,travel
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently learning data science and data processing with python
 - 📫 How to reach me ig: https://www.instagram.com/martin_0_5_2/
 
 <!---
