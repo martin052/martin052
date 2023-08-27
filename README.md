@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @martin052
-- 👀 I’m interested in calisthenic,GoPro,travel
-- 🌱 I’m currently learning data science and data processing with python
-- 📫 How to reach me ig: https://www.instagram.com/martin_0_5_2/
+Hi, I’m Martin.
+I’m interested in programming and calisthenic.
+I’m experienced in VBA and excel. Currently studying react - JavaScript library to be able build amazing websites.
+
 
 <!---
 martin052/martin052 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
